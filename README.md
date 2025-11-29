@@ -98,7 +98,7 @@ void loop() {
 
 ---
 ### **© Brendow Rodrigues**
-Web Programador Front-End, técnico em formação e entusiasta de tecnologia, automação e IA. <br>
+Web Programador Front-End, técnico em formação tecnológica e entusiasta de automação e IA. <br>
 *🦾 Desenvolvido com 💙, café e Arduino.*
 
 
